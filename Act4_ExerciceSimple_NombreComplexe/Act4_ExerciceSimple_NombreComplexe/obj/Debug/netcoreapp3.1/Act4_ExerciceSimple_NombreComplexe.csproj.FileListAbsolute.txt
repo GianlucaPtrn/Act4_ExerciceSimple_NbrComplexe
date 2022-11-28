@@ -1,0 +1,14 @@
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.exe
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.deps.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.runtimeconfig.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.runtimeconfig.dev.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.csproj.CoreCompileInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_NombreComplexe\Act4_ExerciceSimple_NombreComplexe\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_NombreComplexe.genruntimeconfig.cache
